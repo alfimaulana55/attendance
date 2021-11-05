@@ -28,4 +28,4 @@ class AppServiceProvider extends ServiceProvider
             \App\Charts\AttendanceChart::class
         ]);
     }
-}
+}   
